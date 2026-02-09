@@ -3,7 +3,7 @@
 Dette projekt er udviklet som en del af 1. semester på **Aalborg Universitet, Copenhagen (AAU CPH)**.  
 Det er skrevet i **C** og består af grundlæggende funktioner til at håndtere boarding-logik.
 
-## 📁 Indhold
+## Indhold
 
 Projektet indeholder følgende filer:
 
@@ -11,7 +11,7 @@ Projektet indeholder følgende filer:
 - `boarding.c` – Implementering af boarding-funktioner.  
 - `boarding.h` – Headerfil med deklarationer.
 
-## 🧠 Formål
+## Formål
 
 Formålet med dette projekt er at:
 
